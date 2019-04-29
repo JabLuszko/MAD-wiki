@@ -7,10 +7,9 @@ Because for some reason you need it. If you don't need it, then just don't do it
 This is newbie friendly - if you know your way around Android you can do it much faster (Terminal and just edit the file). If you are using **Windows** please use *decent program to edit files* (like: ***Notepad++***, not Wordpad/Word).
 In theory this should NOT crash your phone/ROM, but there is plenty of strange ROMs... so backup. Create a ***backup***, always.
 
-***WARNING!
+***WARNING!***
 
-RUNNING ADB OVER TCP IS INSECURE, EVERYONE CAN ACCESS YOUR PHONE AND DO WHATEVER THEY WANT WITH IT. DO NOT DO IT IN PUBLIC NETWORKS. DO NOT RUN IT ON YOUR NORMAL PHONES
-***
+***RUNNING ADB OVER TCP IS INSECURE, EVERYONE CAN ACCESS YOUR PHONE AND DO WHATEVER THEY WANT WITH IT. DO NOT DO IT IN PUBLIC NETWORKS. DO NOT RUN IT ON YOUR NORMAL PHONES***
 
 ## What do I need?
 - Working USB cable
