@@ -28,7 +28,7 @@ adb pull /system/build.prop
 5. At the end of file add:
 ```
 # MAD
-# Disable ADB icon in notifciations area
+# Disable ADB icon in notifications area
 persist.adb.notify=0
 # Enable ADB over TCP on default port 5555
 service.adb.tcp.port=5555
