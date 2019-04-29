@@ -1,4 +1,4 @@
-![MAD_trans_1](images/MAD_trans_1.png)
+![MAD_trans_1](wiki/images/MAD_trans_1.png)
 
 # Welcome to the official part of MAD Wiki!
 Informations here are official and come straight from devs.
