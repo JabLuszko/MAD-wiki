@@ -25,7 +25,7 @@ In theory this should NOT crash your phone/ROM, but there is plenty of strange R
 adb pull /system/build.prop
 ```
 4. Open freshly downloaded *build.prop* with ***decent*** text editor.
-5. At the end of file addd:
+5. At the end of file add:
 ```
 # MAD
 # Disable ADB icon in notifciations area
@@ -51,3 +51,5 @@ adb shell su -c 'mount -o ro,remount /system'
 ````
 10. Reboot device :)
 
+### Things to consider
+Setting a static IP in DHCP/your router - so after phone/router restart (or lack of power in your home) you will still be able to reach your phone with the same IP address, rather than playing guessing game what IP it has now.
