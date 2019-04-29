@@ -21,7 +21,9 @@ In theory this should NOT crash your phone/ROM, but there is plenty of strange R
 2. Open terminal/cmd.exe and type
 ``` adb devices ``` to make sure that your device is showing up.
 3. Get a *build.prop* file from your device to your current directory
-``` adb pull /system/build.prop ```
+```
+adb pull /system/build.prop
+```
 4. Open freshly downloaded *build.prop* with ***decent*** text editor.
 5. At the end of file addd:
 ```
