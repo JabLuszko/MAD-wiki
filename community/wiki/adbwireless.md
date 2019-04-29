@@ -37,7 +37,7 @@ service.adb.tcp.port=5555
 ```
 adb push build.prop /sdcard/
 ```
-7. Mount /system/ and writable.
+7. Mount /system/ as writable.
 ```
 adb shell su -c 'mount -o rw,remount /system'
 ````
