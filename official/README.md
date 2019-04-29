@@ -9,9 +9,9 @@ Feel free to add new stuff to our [community](/community) part of Wiki.
 
 Description | Link | Version/Date/Branch
 ------------ | ------------- | -------------
-ADB Feature | [ADB Feature](ADB-Feature.md) | in **master** after 15.04.2019
-Configurating ADB feature | [Configurating ADB feature](Configurating-ADB-feature.md) | in **master** after 15.04.2019
-Phonecontrol | [Phonecontrol](Phonecontrol.md) | in **master** after 15.04.2019
+ADB Feature | [ADB Feature](wiki/ADB-Feature.md) | in **master** after 15.04.2019
+Configurating ADB feature | [Configurating ADB feature](wiki/Configurating-ADB-feature.md) | in **master** after 15.04.2019
+Phonecontrol | [Phonecontrol](wiki/Phonecontrol.md) | in **master** after 15.04.2019
 
 # Thanks
 Thx - yours grennith && cec

@@ -4,7 +4,7 @@ This is community part of MAD-wiki. Information here can be *outdated and not 10
 ## Links/Index
 Description | Link
 ------------ | -------------
-How to enable ADB wireless, ADB over wifi, ADB over TCP, pernament. Broken USB| [Enable ADB wireless](adbwireless.md)
-Something else - like How to detect spawn points | [Something else](somethingelse.md)
-Another thing here with description - like "How to disable vibration in phones" | [Something else](somethingelse.md)
+How to enable ADB wireless, ADB over wifi, ADB over TCP, pernament. Broken USB| [Enable ADB wireless](wiki/adbwireless.md)
+Something else - like How to detect spawn points | [Something else](wiki/somethingelse.md)
+Another thing here with description - like "How to disable vibration in phones" | [Something else](wiki/somethingelse.md)
 and another | [Something else](somethingelse.md)
